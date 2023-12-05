@@ -1,5 +1,5 @@
 # Two-Parameter-SMT
-Script for chromatin and transcription factors mobility assesment from Single Molecule Tracking (SMT) experiments
+Pipeline for the analysis of chromatin and transcription factors mobility from Single Molecule Tracking (SMT) experiments
 
 STEP BY STEP protocol
 Prior to start
